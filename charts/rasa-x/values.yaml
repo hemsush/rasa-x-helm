@@ -88,7 +88,7 @@ rasa:
   # additionalChannelCredentials which should be used by Rasa to connect to various
   # input channels
   additionalChannelCredentials: {}
-    # rest:
+  rest:
     # facebook:
     #   verify: "rasa-bot"
     #   secret: "3e34709d01ea89032asdebfe5a74518"
